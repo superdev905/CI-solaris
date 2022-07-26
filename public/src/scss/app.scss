@@ -1,0 +1,9 @@
+@import "vars";
+@import "settings";
+@import "../bower_components/foundation-sites/scss/foundation";
+@import "../bower_components/jquery-ui/themes/smoothness/jquery-ui.css";
+@import "../bower_components/sweetalert/dist/sweetalert.css";
+@import "slick.scss";
+@import "slick-theme.scss";
+@include foundation-everything(true);
+@import "main";

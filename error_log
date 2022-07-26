@@ -1,0 +1,13 @@
+[28-Dec-2016 13:40:54 UTC] PHP Warning:  Unterminated comment starting line 319 in /home/bbcthzxj/public_html/alonlogistical.com/application/config/config.php on line 319
+[28-Dec-2016 13:40:54 UTC] PHP Parse error:  syntax error, unexpected 'writable' (T_STRING) in /home/bbcthzxj/public_html/alonlogistical.com/application/config/config.php on line 341
+[28-Dec-2016 13:40:54 UTC] PHP Warning:  Unterminated comment starting line 378 in /home/bbcthzxj/public_html/alonlogistical.com/application/config/config.php on line 378
+[08-Jan-2017 18:38:12 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bbcthzxj/public_html/alonlogistical.com/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[04-Dec-2018 09:55:14 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/dultimat/public_html/application/third_party/mpdf/mpdf.php on line 1519
+[04-Dec-2018 09:57:54 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/dultimat/public_html/application/third_party/mpdf/mpdf.php on line 1519
+[04-Dec-2018 12:23:28 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/dultimat/public_html/application/third_party/mpdf/mpdf.php on line 1519
+[05-Dec-2018 09:49:09 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/dultimat/public_html/application/third_party/mpdf/mpdf.php on line 1519
+[11-Dec-2018 08:36:00 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/dultimat/public_html/application/third_party/mpdf/mpdf.php on line 1519
+[15-Jan-2020 20:25:15 Asia/Dubai] PHP Fatal error:  Call to a member function Output() on null in /home/yovfngey/public_html/application/controllers/Action.php on line 1157
+[15-Jan-2020 20:37:21 Asia/Dubai] PHP Fatal error:  Call to a member function Output() on null in /home/yovfngey/public_html/application/controllers/Action.php on line 1157
+[15-Jan-2020 20:40:21 Asia/Dubai] PHP Fatal error:  Call to a member function Output() on null in /home/yovfngey/public_html/application/controllers/Action.php on line 1157
+[19-Mar-2020 15:28:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lpstrans/public_html/application/views/page/contact.php on line 114

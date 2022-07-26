@@ -1,0 +1,215 @@
+.mgb-15 {
+    margin-bottom: 15px;
+}
+
+.mgb-30 {
+    margin-bottom: 30px;
+}
+
+body {
+    background-color: #fff !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto Condensed", sans-serif !important;
+}
+
+dl, ol, p, ul {
+    line-height: unset !important;
+}
+
+section.home_banner_area {
+    margin-top: 0;
+}
+
+.homepage.service-area:after {
+    height: 850px !important;
+}
+
+.progress-table .table-head {
+    color: #222222;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.progress-table .reference,
+.progress-table .pin {
+    width: 10%;
+}
+
+.progress-table .status {
+    width: 30%;
+}
+
+.progress-table .buyer, 
+.progress-table .seller,
+.progress-table .controls {
+    width: 20%;
+}
+
+.progress-table .detail-title {
+    width: 40%;
+}
+
+.progress-table .detail-value {
+    width: 60%;
+}
+
+.progress-table .detail-value p {
+    float: right;
+}
+
+.progress-table span.label {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.progress-table .status span.label {
+    padding: 7px 10px;
+    border-radius: 4px;
+}
+
+.progress-table .controls .genric-btn {
+    padding: 0 5px;
+    border-radius: 10px;
+}
+
+.testi_author .thumb img {
+    border-radius: 50%;
+}
+/* New Transaction Page Style */
+[class$="_details"] {
+    background: #fff;
+    padding: 1rem;
+    border: 1px solid rgba(170,178,189,.5);
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 2px 8px rgba(0,0,0,.5);
+    box-shadow: 0 2px 8px rgba(0,0,0,.5);
+}
+
+[class$="_details"] legend {
+    background: #fff;
+    padding: .5rem 1rem;
+    border: 1px solid rgba(170,178,189,.5);
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+[class$="_details"] label {
+    display: block;
+    margin: 0;
+    font-size: .875rem;
+    line-height: 1.8;
+    color: #000;
+}
+
+[class$="_details"] input {
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    height: 2.3125rem;
+    margin: 0 0 1rem;
+    padding: .5rem;
+    border: 1px solid rgba(101,109,120,.5);
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    font-family: inherit;
+    font-size: .875rem;
+    font-weight: 400;
+    color: #656D78;
+    -webkit-transition: -webkit-box-shadow .5s,border-color .25s ease-in-out;
+    transition: box-shadow .5s,border-color .25s ease-in-out;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+[class$="_details"] select {
+    height: 2.3125rem;
+    margin: 0 0 1rem;
+    padding: .5rem 1.5rem .5rem .5rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px solid rgba(101,109,120,.5);
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: .875rem;
+    line-height: normal;
+    color: #656D78;
+    background-origin: content-box;
+    background-position: right -1rem center;
+    background-repeat: no-repeat;
+    background-size: 9px 6px;
+    -webkit-transition: -webkit-box-shadow .5s,border-color .25s ease-in-out;
+    transition: box-shadow .5s,border-color .25s ease-in-out;
+}
+
+.form-select .nice-select,
+[class$="_details"] label textarea {
+    border: 1px solid rgba(101,109,120,.5);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    border-radius: 4px;
+    padding-left: 10px;
+}
+
+legend {
+    max-width: 100%;
+    margin-bottom: .5rem;
+    box-sizing: border-box;
+    display: table;
+    color: inherit;
+    white-space: normal;
+}
+
+/* terms and conditions page style */
+section.section_termsandcond {
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+section.section_termsandcond .lower-content p {
+    word-wrap: break-word !important;
+}
+
+/* track page style */
+.top-n-bottom {
+    margin-bottom: 70px;
+}
+
+/* footer style */
+.footer-area a {
+    color: #007bff;
+}
+
+.footer-area a:hover {
+    color: white;
+}
+
+.footer-text a, .footer-text i {
+    color: #e72727 !important;
+}
+
+.detail-box .detail-name {
+    width: 10em !important;
+}
+
+.detail-box .detail-content {
+    padding-left: 10.75em !important;
+}
+
+@media screen and (max-width: 991px) {
+    section.section_termsandcond {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .footer-area {
+        margin-top: 0;
+    }
+}
